@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "nodemon": "^3.0.1",
+    "puppeteer": "^21.5.2",
     "tiktok-live-connector": "^1.0.5"
   }
 }
